@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Debora 👋
 
-<!--
-**deborawein/deborawein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Developer** based in Melbourne, Australia. Bachelor of IT (Mobile Applications Development) from the Academy of Interactive Technology, March 2025.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[KidShip](https://github.com/deborawein/kidship-app)** — cross-platform parent-teacher communication app (React Native, Firebase, Expo, NativeWind)
+- **[Pao & Luisi Wedding Invite](https://github.com/deborawein/Pao-Luisin-Wedding-Invite)** — real wedding invite site with automated RSVP deadline and in-browser calendar generation ([live](https://paoyluisi.netlify.app/))
+- **[Lizeth Pineda Portfolio](https://github.com/deborawein/Lizeth-Pineda-Portfolio)** — designer portfolio with data-driven category system ([live](https://lizethpineda.netlify.app/))
+
+### 📚 Currently learning
+
+- TypeScript, Next.js
+- Data analysis with SQL, Python, Power BI
+- AI-assisted development with Claude, GitHub Copilot, and Cursor
+
+### 💼 Open to junior roles
+
+Developer, Data Analyst, or QA. Melbourne preferred · Australia-wide considered · Remote possible.
+
+### 📫 Reach out
+
+[debiwein@gmail.com](mailto:debiwein@gmail.com) · [LinkedIn](https://www.linkedin.com/in/deboraweinmann/)
