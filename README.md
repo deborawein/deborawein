@@ -4,9 +4,9 @@
 
 ### 🛠️ What I'm building
 
-- **[KidShip](https://github.com/deborawein/kidship-app)** — cross-platform parent-teacher communication app (React Native, Firebase, Expo, NativeWind)
-- **[Pao & Luisi Wedding Invite](https://github.com/deborawein/Pao-Luisin-Wedding-Invite)** — real wedding invite site with automated RSVP deadline and in-browser calendar generation ([live](https://paoyluisi.netlify.app/))
-- **[Lizeth Pineda Portfolio](https://github.com/deborawein/Lizeth-Pineda-Portfolio)** — designer portfolio with data-driven category system ([live](https://lizethpineda.netlify.app/))
+- **[KidShip App](https://github.com/deborawein/kidship-app)** — cross-platform parent-teacher communication app (React Native, Firebase, Expo, NativeWind)
+- **[Pao & Luisi Wedding Invite Website](https://github.com/deborawein/Pao-Luisin-Wedding-Invite-Web)** — real wedding invite site with automated RSVP deadline and in-browser calendar generation ([live](https://paoyluisi.netlify.app/))
+- **[Client Portfolio Website](https://github.com/deborawein/Lizeth-Portfolio-Web)** — designer portfolio with data-driven category system ([live](https://lizethpineda.netlify.app/))
 
 ### 📚 Currently learning
 
